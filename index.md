@@ -9,3 +9,25 @@
 - 尹 秀輔（ユン シュウスケ）
 - 大阪府在住
 - webアプリケーションを勉強中
+
+# Skills
+使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
+- OS（Windows,Ubuntuなど）
+- Languages（JavaScriptなど）
+- Engine,Frameworks (Node.js, Expressなど)
+- Tool,MiddleWare（Git, PostgreSQLなど）
+
+# Works
+アピールできる活動内容を書きましょう。
+- [GitHub]https://github.com/shusukeyun
+
+
+# Contact
+連絡先を書きましょう。
+- [Twitter]https://twitter.com/qZxbxH4KwskTht3
+- [Mail]shusukesoccerboy.gk@icloud.com
+
+# History
+学歴、職歴、アルバイト、インターン経験など。
+- 2018年 石川勝事務所インターン生14期
+- 2020年 未来電子インターンにてWebライターを経験
